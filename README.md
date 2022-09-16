@@ -2,4 +2,4 @@
 
 Criando Uma CALCULADORA com HTML, CSS &amp; JavaScript
 
-![relogio projeto](https://user-images.githubusercontent.com/112776793/190540643-18db57e7-8818-4b8f-a16c-067968f63d11.gif)
+![calculadora_projeto](https://user-images.githubusercontent.com/112776793/190544233-e72eda2c-0073-435d-ae0b-69acc3d91508.gif)
